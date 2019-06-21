@@ -3,8 +3,16 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "bootstrap": "4.3.1",
+    "jquery": "3.4.1",
+    "popper.js": "1.15.0",
+    "react": "16.8.6",
+    "react-bootstrap": "0.32.4",
+    "react-dom": "16.8.6",
+    "react-router-dom": "5.0.1",
+    "react-router-link": "^2.0.2",
+    "reactstrap": "8.0.0",
+    "styled-components": "4.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
