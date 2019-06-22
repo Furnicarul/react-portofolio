@@ -25,7 +25,7 @@ class Navigation extends React.Component {
           <Collapse isOpen={!this.state.collapsed} navbar>
             <Nav navbar>
               <NavItem>
-                <NavLink href="#">Components</NavLink>
+                <NavLink href="#">Contact</NavLink>
               </NavItem>
               <NavItem>
                 <NavLink href="https://github.com/Furnicarul">GitHub</NavLink>
